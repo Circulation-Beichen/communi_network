@@ -1,0 +1,4 @@
+PHY =ComExpmRJ.exe
+APP = apptester.exe
+NET = NetTester.exe
+LNK = LnkTester.exe

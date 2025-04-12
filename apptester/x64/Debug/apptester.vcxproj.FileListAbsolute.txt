@@ -1,0 +1,8 @@
+P:\myrepos\apptester\apptester\x64\Debug\apptester.exe
+P:\myrepos\apptester\apptester\x64\Debug\apptester.pdb
+I:\myrepos\apptester\apptester\x64\Debug\apptester.exe
+I:\myrepos\apptester\apptester\x64\Debug\apptester.pdb
+J:\myrepos\apptester\apptester\x64\Debug\apptester.exe
+J:\myrepos\apptester\apptester\x64\Debug\apptester.pdb
+E:\myrepos\apptester\apptester\x64\Debug\apptester.exe
+G:\myrepos\apptester\apptester\x64\Debug\apptester.exe

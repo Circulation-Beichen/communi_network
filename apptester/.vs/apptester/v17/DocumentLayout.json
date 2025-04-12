@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bcof\\Desktop\\Work\\class\\2_last\\communi_network\\apptester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126002D6-5648-4CEC-93CB-72E96DF0AEC3}|apptester.vcxproj|C:\\Users\\bcof\\Desktop\\Work\\class\\2_last\\communi_network\\apptester\\apptester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{126002D6-5648-4CEC-93CB-72E96DF0AEC3}|apptester.vcxproj|solutionrelative:apptester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apptester.cpp",
+              "DocumentMoniker": "C:\\Users\\bcof\\Desktop\\Work\\class\\2_last\\communi_network\\apptester\\apptester.cpp",
+              "RelativeDocumentMoniker": "apptester.cpp",
+              "ToolTip": "C:\\Users\\bcof\\Desktop\\Work\\class\\2_last\\communi_network\\apptester\\apptester.cpp",
+              "RelativeToolTip": "apptester.cpp",
+              "ViewState": "AQIAAG4BAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T11:09:48.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

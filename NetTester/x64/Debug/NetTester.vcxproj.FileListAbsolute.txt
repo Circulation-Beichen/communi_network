@@ -1,0 +1,6 @@
+P:\myrepos\NetTester\NetTester\x64\Debug\NetTester.exe
+P:\myrepos\NetTester\NetTester\x64\Debug\NetTester.pdb
+I:\myrepos\NetTester\NetTester\x64\Debug\NetTester.exe
+I:\myrepos\NetTester\NetTester\x64\Debug\NetTester.pdb
+E:\myrepos\NetTester\NetTester\x64\Debug\NetTester.exe
+G:\myrepos\NetTester\NetTester\x64\Debug\NetTester.exe

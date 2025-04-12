@@ -1,0 +1,2 @@
+F:\myrepos\LnkTester\LnkTester\x64\Debug\LnkTester.exe
+G:\myrepos\LnkTester\LnkTester\x64\Debug\LnkTester.exe
